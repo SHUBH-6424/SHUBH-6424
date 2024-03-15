@@ -1,5 +1,5 @@
 👋 Hi, I’m @SHUBH-6424
-👀 I’m interested in data analysis, statistics, machine learning, and data visualization.
+👀 I’m interested in data analysis, statistics,  and data visualization.
 🌱 I’m currently learning advanced statistical techniques, programming languages such as Python and R, and exploring various data analysis tools and frameworks.
 💞️ I’m looking to collaborate on projects related to data analysis, predictive modeling, and data-driven decision-making.
 📫 You can reach me via email at shubhamgaikwad9054@gmail.com or connect with me on LinkedIn at [insert LinkedIn profile link].
